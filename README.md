@@ -13,7 +13,7 @@ Tema: Personvern og sikkerhet på nett
 ## Problemstilling
 > *Hva slags data og personopplysninger av oss blir lagret, hvordan blir den samlet inn, hva brukes den til og vet vi egentlig hvor mye som blir lagret?*
 
-Kilder.
+## Kilder
 - https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/   
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/hva-er-personvern/id448290/   
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/ny-personopplysningslov/id2340094/   
