@@ -3,12 +3,12 @@
 ## Disposisjon 
 Tema: Personvern og sikkerhet på nett
 1.	Hva er personvern/sikkerhet på nett
-  - Hva vet folk/elever på skolen om personvern på nett
+    - Hva vet folk/elever på skolen om personvern på nett
 2.	Sikkerhet på nettsider/nettlesere
 3.	Sikkerhet i operativsystem
 4.	Nettleverandører og staten (Datainnsamling ny lov)
 5.	Hvordan forhindre sporing og datainnsamling
-6.	Oppblomstring av programmer – Zoom i corona-tiden
+6.	Oppblomstring av programmer – Zoom i Corona-tiden
 
 ## Problemstilling
 > *Hva slags data og personopplysninger av oss blir lagret, hvordan blir den samlet inn, hva brukes den til og vet vi egentlig hvor mye som blir lagret?*
