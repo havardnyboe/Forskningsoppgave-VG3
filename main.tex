@@ -36,28 +36,35 @@
 
 \pagenumbering{arabic} % Sidenummerering for resten av dokumentet
 
+\import{sections}{sammendrag}
 \import{sections}{innledning}
-\import{sections}{bibliografi}
-\import{sections}{bilderOgFigurer}
+\import{sections}{bakgrunn}
+\import{sections}{teori}
+\import{sections}{metode}
+\import{sections}{resultater}
+\import{sections}{analyse}
+\import{sections}{diskusjon}
+\import{sections}{konklusjon}
 
 \section{Test}
-    \subsection{Test test}
-    Dette er en test
+\subsection{Test test}
+Dette er en test
 
-    Dette er enda en test
+Dette er enda en test
 
     Hei \parencite{druckmann2020}\\
     Hei \parencite{druckmann2013}\\
     Hei \parencite{druckmann2014}
-
+    
     \begin{figure}[h]\label{r/place}
         \centering
         \includegraphics[width=.6\textwidth]{img/r_place.png}
-        \caption{Kunstverk laget av redditørene fra r/place.}
+        \caption{Kunstverk laget av r/place.}
     \end{figure}
-
-%% BIBLIOGRAFI %%
-\newpage
-\printbibliography[heading=bibintoc]
+    
+    %% BIBLIOGRAFI %%
+    \newpage
+    \printbibliography[heading=bibintoc]
+    
 
 \end{document}
