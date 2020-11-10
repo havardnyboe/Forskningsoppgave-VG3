@@ -1,0 +1,13 @@
+{
+    "spellright.language": [
+        "en_GB",
+        "en_US",
+        "nb_NO"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "jsonc"
+    ]
+}
