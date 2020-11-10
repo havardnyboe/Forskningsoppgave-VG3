@@ -1,7 +1,9 @@
 # Forskningsoppgave VG3 - Informasjonsteknologi 1
 
+## Tema
+Personvern og sikkerhet på nett
+
 ## Disposisjon 
-Tema: Personvern og sikkerhet på nett
 1.	Hva er personvern/sikkerhet på nett
     - Hva vet folk/elever på skolen om personvern på nett
 2.	Sikkerhet på nettsider/nettlesere
