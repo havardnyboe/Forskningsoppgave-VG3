@@ -13,4 +13,5 @@ __latexindent_temp.tex
 *.run
 *.run.xml
 *.synctex.gz
+*.synctex
 *.toc
