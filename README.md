@@ -13,7 +13,7 @@ Personvern og sikkerhet på nett
 6.	Oppblomstring av programmer – Zoom i Corona-tiden
 
 ## Problemstilling
-> *Hva slags data og personopplysninger av oss blir lagret, hvordan blir den samlet inn, hva brukes den til og vet vi egentlig hvor mye som blir lagret?*
+> *Hvorfor blir det lagret personopplysninger av oss, og vet vi ha de brukes til?*
 
 ## Kilder
 - https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/   
