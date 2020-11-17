@@ -21,3 +21,4 @@ Personvern og sikkerhet på nett
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/ny-personopplysningslov/id2340094/   
 - https://www.nrk.no/norge/flertall-pa-stortinget-for-ny-etterretningstjenestelov-1.15045224   
 - https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/   
+- https://www.jus.uio.no/ifp/forskning/om/publikasjoner/complex/2006-2011/complex-2009-04.pdf
