@@ -1,26 +1,4 @@
-% Preambel
-\documentclass[a4paper, 12pt]{article}
-\title{Test {\LaTeX} Dokument}
-\author{Håvard Solberg Nybøe}
-
-% Pakker
-% Språk
-\usepackage[english, norsk]{babel} % Norsk språk
-\usepackage{csquotes}
-\usepackage{lipsum}
-% Bibliografi
-\usepackage[backend=biber, style=apa]{biblatex}
-\addbibresource{bibliografi.bib}
-\usepackage[hidelinks]{hyperref}
-% Generelt
-\usepackage[margin=1in]{geometry}
-\usepackage{graphicx}
-\usepackage{import}
-\usepackage{pgfplots}
-
-\setlength{\parindent}{0em}
-\setlength{\parskip}{.8em}
-
+\input{preamble.tex}
 % Dokumentet
 \begin{document}
 
@@ -33,6 +11,7 @@
 \tableofcontents
 \listoffigures
 \listoftables
+\lstlistoflistings
 \newpage
 
 \pagenumbering{arabic} % Sidenummerering for resten av dokumentet
