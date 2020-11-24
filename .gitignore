@@ -9,6 +9,7 @@ __latexindent_temp.tex
 *.log
 *.lof
 *.lot
+*.lol
 *.out
 *.run
 *.run.xml
