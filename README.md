@@ -15,6 +15,12 @@ Personvern og sikkerhet på nett
 ## Problemstilling
 > *Hvorfor blir det lagret personopplysninger av oss, og vet vi ha de brukes til?*
 
+## Undersøkelse spørsmål
+- Bruker du Snapmap til å overvåke venner og bekjente?
+- Føler du at du blir overvåket av andre på Snapmap?
+- Er du redd for at oppsamlede personopplysninger av deg vil bli brukt for å utnytte deg?
+- 
+
 ## Kilder
 - https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/   
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/hva-er-personvern/id448290/   
