@@ -1,7 +1,6 @@
 {
     "spellright.language": [
-        "en_GB",
-        "nb_NO"
+        "nb-NO"
     ],
     "spellright.documentTypes": [
         "markdown",
