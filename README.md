@@ -19,7 +19,6 @@ Personvern og sikkerhet på nett
 - Bruker du Snapmap til å overvåke venner og bekjente?
 - Føler du at du blir overvåket av andre på Snapmap?
 - Er du redd for at oppsamlede personopplysninger av deg vil bli brukt for å utnytte deg?
-- 
 
 ## Kilder
 - https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/   
