@@ -8,17 +8,16 @@
 \newpage
 
 % Innholdsfortegnelse
+\cleardoublepage
 \tableofcontents
-\listoffigures
-\listoftables
-\lstlistoflistings
 \newpage
+
+\import{sections}{sammendrag}
 
 \pagenumbering{arabic} % Sidenummerering for resten av dokumentet
 
-\import{sections}{sammendrag}
 \import{sections}{innledning}
-\import{sections}{bakgrunn}
+% \import{sections}{bakgrunn}   
 \import{sections}{teori}
 \import{sections}{metode}
 \import{sections}{resultater}
@@ -36,8 +35,12 @@
 \end{figure}
 
 \newpage
-    
+
 %% BIBLIOGRAFI %%
 \printbibliography[heading=bibintoc]
+\listoffigures
+\listoftables
+\lstlistoflistings
+\addcontentsline{toc}{section}{Koder}
 
 \end{document}
