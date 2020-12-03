@@ -27,6 +27,7 @@ Personvern og sikkerhet på nett
 - https://www.nrk.no/norge/flertall-pa-stortinget-for-ny-etterretningstjenestelov-1.15045224   
 - https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/ 
 - https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/  
+- https://nrkbeta.no/2020/12/03/telefonen-spionerte-pa-meg-slik-fant-jeg-overvakerne/
 
 ## Tidligere forskning
 - http://bora.uib.no/bitstream/handle/1956/20255/Terje-Masteroppgave.pdf?sequence=1&isAllowed=y
