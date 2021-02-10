@@ -1,67 +1,62 @@
 \section{Resultater}
 
 \subsection{Informasjon om informantene}
-\subsubsection{Hvilket kjønn er du?}
-\begin{figure}[H]
-    \centering
-    \begin{tikzpicture}
-        \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50}]{
-            54  /San Antonio Spurs,
-            46  /Other Teams}
-    \end{tikzpicture}    
-    \caption{Test}
-\end{figure}
-
-\subsubsection{Hvor gammel er du?}
+\subsubsection{Kjønn og alder}
 \begin{figure}[H]
     \centering
     \begin{tikzpicture}
         \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
-        explode = {0.4, 0, 0.4, 0, 0},
-        pos = {0,0}]{
-            24    /Los Angeles Lakers,
-            30  /Boston Celtics,
-            17    /Chicago Bulls,
-            11  /San Antonio Spurs,
-            18    /Other Teams}
-    \end{tikzpicture}    
-    \caption{Test}
-\end{figure}
-
-\subsubsection{A}
-\begin{figure}[H]
-    \centering
-    \begin{tikzpicture}
-        \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
-        explode = {0.4, 0, 0},
         text = inside]{
-            71  /B Celtics,
-            11  /SA Spurs,
-            18    /Other}
+            41.6  /Gutt,
+            58.4  /Jente}
+        \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
+        explode = {0.4, 0, 0, 0, 0, 0},
+        pos = {7,0}]{
+            62.3 /16-19,
+            2.6  /20-29,
+            7.8  /30-39,
+            20.8 /40-49,
+            5.2  /50-59,
+            1.3  /60+}
+    \end{tikzpicture}    
+    \caption{Test}
+\end{figure}
+I alt svarte 77 personer på undersøkelsen, hvor fordelingen av kjønn ble ganske likt.
+41,6\% var gutter og 58,4\% var jenter. Som forventet var det størst deltagelse fra aldersgruppen 16-19
+
+\subsubsection{Fordeling av elever, lærere og trinn}
+\begin{figure}[H]
+    \centering
+    \begin{tikzpicture}
+        \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
+        text = inside]{
+        18.2  /1. Klasse,
+        14.3  /2. Klasse,
+        31.2  /3. Klasse,
+        36.4  /Ingen Andre}
         \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
         explode = {0},
         pos = {7,0},
         text = inside]{
-            24    /LA Lakers,
-            30  /B Celtics,
-            17    /C Bulls,
-            11  /SA Spurs,
-            18    /Other}
-    \end{tikzpicture}    
+            64.9 /Elev,
+            35.1 /Lærer}
+        \end{tikzpicture}    
     \caption{Test}
 \end{figure}
 
-\subsubsection{A}
+\subsubsection{Linjefordeling}
 \begin{figure}[H]
     \centering
     \begin{tikzpicture}
         \pie[color = {blue!65!green,red!60,yellow!60,orange!70,green!60!black,teal!50},
-        explode = {0.4, 0, 0.4, 0, 0}]{
-            24    /Los Angeles Lakers,
-            30  /Boston Celtics,
-            17    /Chicago Bulls,
-            11  /San Antonio Spurs,
-            18    /Other Teams}
+        % explode = {0.4, 0, 0},
+        ]{
+            36.4  /Studiespes.,
+            3.9   /KDA,
+            9.1   /Idrett,
+            16.9  /IM,
+            1.3   /Teknologi- og industrifag,
+            32.5  /Andre\/Ikke elev}
     \end{tikzpicture}    
     \caption{Test}
 \end{figure}
