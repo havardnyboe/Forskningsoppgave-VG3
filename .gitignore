@@ -1,18 +1,18 @@
-# __latexindent_temp.tex
-# *.aux
-# *.bbl
-# *.bcf
-# *.blg
-# *.dvi
-# *.fdb_latexmk
-# *.fls
-# *.log
-# *.lof
-# *.lot
-# *.lol
-# *.out
-# *.run
-# *.run.xml
-# *.synctex.gz
-# *.synctex
-# *.toc
+__latexindent_temp.tex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.lof
+*.lot
+*.lol
+*.out
+*.run
+*.run.xml
+*.synctex.gz
+*.synctex
+*.toc
