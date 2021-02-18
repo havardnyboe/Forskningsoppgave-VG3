@@ -53,7 +53,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Del 1 - Generelt om personvern}{7}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Del 2 - Overvåkning}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Del 2 - Overvåkning}{10}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Diskusjon}{12}{section.5}%
 \defcounter {refsection}{0}\relax 
