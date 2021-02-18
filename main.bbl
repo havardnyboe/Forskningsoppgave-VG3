@@ -1,0 +1,225 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{artikkel:datatilsynet_personvern}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7449f4d00623be255220f53c95420fe2}{%
+           family={Datatilsynet},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7449f4d00623be255220f53c95420fe2}
+      \strng{fullhash}{7449f4d00623be255220f53c95420fe2}
+      \strng{bibnamehash}{7449f4d00623be255220f53c95420fe2}
+      \strng{authorbibnamehash}{7449f4d00623be255220f53c95420fe2}
+      \strng{authornamehash}{7449f4d00623be255220f53c95420fe2}
+      \strng{authorfullhash}{7449f4d00623be255220f53c95420fe2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hva er personvern?}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/
+      \endverb
+      \verb{url}
+      \verb https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/
+      \endverb
+    \endentry
+    \entry{master:hanssen}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b660c66a36cff314d60eb1916ff6fb0}{%
+           family={Hanssen},
+           familyi={H\bibinitperiod},
+           given={Terje\bibnamedelima Sandkjær},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universitetet i Bergen}%
+      }
+      \strng{namehash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \strng{fullhash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \strng{bibnamehash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \strng{authorbibnamehash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \strng{authornamehash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \strng{authorfullhash}{5b660c66a36cff314d60eb1916ff6fb0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisen å betale: En studie av hvordan unge voksne forholder seg til personvern på nett.}
+      \field{type}{mathesis}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bora.uib.no/bora-xmlui/bitstream/handle/1956/20255/Terje-Masteroppgave.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://bora.uib.no/bora-xmlui/bitstream/handle/1956/20255/Terje-Masteroppgave.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{bok:nissenbaum}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b87272f33535d7231ff18fbf708063a0}{%
+           family={Nissenbaum},
+           familyi={N\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stanford}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{bibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorbibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authornamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhash}{b87272f33535d7231ff18fbf708063a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Privacy in Context: Technology, Policy, and the Integrity of Social Life}
+      \field{year}{2010}
+    \endentry
+    \entry{artikkel:nsd_forsknig}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1fddb4377573de101429ba0c8eb325e5}{%
+           family={NSD},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1fddb4377573de101429ba0c8eb325e5}
+      \strng{fullhash}{1fddb4377573de101429ba0c8eb325e5}
+      \strng{bibnamehash}{1fddb4377573de101429ba0c8eb325e5}
+      \strng{authorbibnamehash}{1fddb4377573de101429ba0c8eb325e5}
+      \strng{authornamehash}{1fddb4377573de101429ba0c8eb325e5}
+      \strng{authorfullhash}{1fddb4377573de101429ba0c8eb325e5}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Barnehage- og skoleforskning}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/
+      \endverb
+      \verb{url}
+      \verb https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/
+      \endverb
+    \endentry
+    \entry{artikkel:regjeringen_personvern}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b4a5d8cfc4add99e2e9cf3fd0b74467}{%
+           family={Regjeringen},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{fullhash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{bibnamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authorbibnamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authornamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authorfullhash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hva er personvern?}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/hva-er-personvern/id448290/
+      \endverb
+      \verb{url}
+      \verb https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/hva-er-personvern/id448290/
+      \endverb
+    \endentry
+    \entry{artikkel:regjeringen_nylov}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b4a5d8cfc4add99e2e9cf3fd0b74467}{%
+           family={Regjeringen},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{fullhash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{bibnamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authorbibnamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authornamehash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \strng{authorfullhash}{3b4a5d8cfc4add99e2e9cf3fd0b74467}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ny etterretningstjenestelov er vedtatt i Stortinget}
+      \field{urlday}{10}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/
+      \endverb
+      \verb{url}
+      \verb https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
