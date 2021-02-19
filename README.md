@@ -16,7 +16,8 @@ Personvern og sikkerhet på nett
 
 ## Problemstilling
 
-> _Hvorfor blir det lagret personopplysninger av oss, og vet vi ha de brukes til?_
+~~> _Hvorfor blir det lagret personopplysninger av oss, og vet vi ha de brukes til?_~~
+> Hvor mye bryr vi oss om personvern, og er vi redd for å bli overvåket?
 
 ## Undersøkelse spørsmål
 
