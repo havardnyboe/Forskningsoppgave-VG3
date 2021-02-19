@@ -25,12 +25,18 @@ Personvern og sikkerhet på nett
 - Er du redd for at oppsamlede personopplysninger av deg vil bli brukt for å utnytte deg?
 
 ## Kilder
-
+- Hva er personvern:
 - https://www.datatilsynet.no/rettigheter-og-plikter/hva-er-personvern/
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/hva-er-personvern/id448290/
+- GDPR:
 - https://www.regjeringen.no/no/tema/statlig-forvaltning/personvern/ny-personopplysningslov/id2340094/
+- https://gdpr.eu/what-is-gdpr/
+- Ny etterretningnstjensetelov:
 - https://www.nrk.no/norge/flertall-pa-stortinget-for-ny-etterretningstjenestelov-1.15045224
 - https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/
+- https://lovdata.no/dokument/NL/lov/2020-06-19-77/KAPITTEL_1#KAPITTEL_1
+- https://snl.no/metadata
+- Andre kilder:
 - https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/
 - https://nrkbeta.no/2020/12/03/telefonen-spionerte-pa-meg-slik-fant-jeg-overvakerne/
 
