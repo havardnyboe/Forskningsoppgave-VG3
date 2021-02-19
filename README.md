@@ -35,6 +35,7 @@ Personvern og sikkerhet på nett
 - https://www.nrk.no/norge/flertall-pa-stortinget-for-ny-etterretningstjenestelov-1.15045224
 - https://www.regjeringen.no/no/aktuelt/ny-etterretningstjenestelov-er-vedtatt-i-stortinget/id2705969/
 - https://lovdata.no/dokument/NL/lov/2020-06-19-77/KAPITTEL_1#KAPITTEL_1
+- https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/hoeringsuttalelser/horingsuttalelser-2019/datatilsynet-sier-nei-til-digital-masseovervakning-av-norske-borgere/
 - https://snl.no/metadata
 - Andre kilder:
 - https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/
