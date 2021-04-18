@@ -4,8 +4,7 @@
 
 Personvern og sikkerhet på nett
 
-## Disposisjon
-
+## Forslag til innhold
 1. Hva er personvern/sikkerhet på nett
    - Hva vet folk/elever på skolen om personvern på nett
 2. Sikkerhet på nettsider/nettlesere
@@ -20,7 +19,7 @@ Personvern og sikkerhet på nett
 
 > Hvor mye bryr vi oss om personvern, og er vi redd for å bli overvåket?
 
-## Undersøkelse spørsmål
+## Spørsmål til undersøkelsen 
 
 - Bruker du Snapmap til å overvåke venner og bekjente?
 - Føler du at du blir overvåket av andre på Snapmap?
