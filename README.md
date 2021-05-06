@@ -1,11 +1,14 @@
 # Forskningsoppgave VG3 - Informasjonsteknologi 1
 
+## Ferdigstilte utgaver
+[Forskningsoppgave for digital lesing](https://github.com/havardnyboe/Forskningsoppgave-VG3/raw/main/main_uten_sidedeling.pdf)  
+[Forskningsoppgave for utskrift](https://github.com/havardnyboe/Forskningsoppgave-VG3/raw/main/main.pdf)
+
 ## Tema
 
 Personvern og sikkerhet på nett
 
-## Disposisjon
-
+## Forslag til innhold
 1. Hva er personvern/sikkerhet på nett
    - Hva vet folk/elever på skolen om personvern på nett
 2. Sikkerhet på nettsider/nettlesere
@@ -20,7 +23,7 @@ Personvern og sikkerhet på nett
 
 > Hvor mye bryr vi oss om personvern, og er vi redd for å bli overvåket?
 
-## Undersøkelse spørsmål
+## Spørsmål til undersøkelsen 
 
 - Bruker du Snapmap til å overvåke venner og bekjente?
 - Føler du at du blir overvåket av andre på Snapmap?
@@ -40,7 +43,7 @@ Personvern og sikkerhet på nett
 - https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/hoeringsuttalelser/horingsuttalelser-2019/datatilsynet-sier-nei-til-digital-masseovervakning-av-norske-borgere/
 - https://snl.no/metadata
 - Andre kilder:
-- https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/
+- https://www.nsd.no/personverntjenester/oppslagsverk-for-personvern-i-forskning/barnehage-og-skoleforskning/ 
 - https://nrkbeta.no/2020/12/03/telefonen-spionerte-pa-meg-slik-fant-jeg-overvakerne/
 
 ## Tidligere forskning
